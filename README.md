@@ -19,4 +19,4 @@ This is a full-stack Netflix Clone built using React, Firebase, and Material-UI.
 - src/Nav.jsx: Navigation bar component.
 - src/Row.jsx: Component for rendering rows of movies based on different categories.
 - src/App.jsx: Main component combining all the sections.
-### Link : https://cpanetflix.netlify.app/
+### Link : https://tranquil-selkie-d04441.netlify.app/
